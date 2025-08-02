@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d0de40c77cc6ac8438c73ee782c49715
+guid: f9170319db1914b4fa9af836fd6b9399
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -98,7 +98,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638897377097900873
+  platformSettingsDirtyTick: 638897377158003050
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -123,19 +123,19 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: UI_Resources
+  - name: UI_ResourcesCenter
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
-    border: {x: 41, y: 62, z: 40, w: 30}
+    border: {x: 0, y: 34, z: 0, w: 22}
     customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 128
+      width: 18
       height: 128
-    spriteID: 203f748b32eff8f4fb0e86cd1a603985
+    spriteID: 5eb81c84b72e64d4ab3ce711b8da5c94
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -148,25 +148,25 @@ ScriptedImporter:
   asepriteLayers:
   - layerIndex: 0
     uuid:
-      value0: 2001578906
+      value0: 1365215153
       value1: 0
       value2: 0
       value3: 0
     guid: 0
-    name: UI_Resources
+    name: UI_ResourcesCenter
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: UI_Resources
+    - name: ResourcesWindowCenter
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
-        width: 128
+        width: 18
         height: 128
-      spriteId: 203f748b32eff8f4fb0e86cd1a603985
+      spriteId: 5eb81c84b72e64d4ab3ce711b8da5c94
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -221,5 +221,5 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 128, y: 128}
-  previousTextureSize: {x: 256, y: 256}
+  canvasSize: {x: 18, y: 128}
+  previousTextureSize: {x: 128, y: 256}
